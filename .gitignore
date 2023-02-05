@@ -1,5 +1,5 @@
 #maven
-target/
+/target/
 .project
 .classpath
 local.properties
