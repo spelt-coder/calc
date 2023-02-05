@@ -1,0 +1,6 @@
+#maven
+target/
+.project
+.classpath
+local.properties
+*.settings
